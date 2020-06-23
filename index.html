@@ -9,34 +9,71 @@
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
             integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
             crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
 </head>
-<body>
+<body style="border: 0; padding: 0; margin: 0;">
 <div id="mapId" style="width: 100%; height: 100%; z-index: 90"></div>
 <script>
-    var map = L.map('mapId').setView([60.1699, 31.8981], 15);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
+    var map = L.map('mapId').setView([61.670843, 31.695903], 13);
+    // grid layers
+    const here = {
+        apiKey: 'lyhrrN9MJEJZFWTqd9jhTrg8KiNcoWlyONmpj4oRToY'
+    }
+    const style = 'hybrid.day';
+    const hereTileUrl = `https://1.aerial.maps.ls.hereapi.com/maptile/2.1/maptile/newest/${style}/{z}/{x}/{y}/256/png8?apiKey=${here.apiKey}&ppi=320&lg=rus`;
+    var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map),
+        here_map = L.tileLayer(hereTileUrl, {id: 'MapID', attribution: "'&copy; HERE 2019'"});
 
-    var circle = L.circle([60.1699, 31.8981], 60, {
-        color: 'red',
-        fillColor: 'red',
-        fillOpacity: 0.5
-    }).addTo(map);
+    var baseMaps = {
+        "Open Street Map": osm,
+        "Here.com map": here_map
+    };
+    var camp_1_2 = L.marker([60.746383, 33.622003]).bindTooltip('Camp 1-2 Свирь'),
+        camp_3_5 = L.marker([61.670843, 31.695903]).bindPopup('Camp 3-5 Раутаярви'),
+        camp_6_8 = L.marker([60.890102, 30.426113]).bindPopup('Camp 6-8 Моторное');
+    var camps = L.layerGroup([camp_1_2, camp_3_5, camp_6_8]).addTo(map);
 
+    var a_1 = new L.GPX('gpx/A-KHIMATSOO Euro TR-1 Adventure.gpx', {async: true, polyline_options: {
+    color: 'green',
+    opacity: 0.75,
+    weight: 3,
+    lineCap: 'round'
+  }});
+    var a_2 = new L.GPX('gpx/A-KHIMATSOO TR-2 Adventure-Open ATV-Adventure.gpx', {async: true, polyline_options: {
+    color: 'yellow',
+    opacity: 0.75,
+    weight: 3,
+    lineCap: 'round'
+  }});
+    var a_3 = new L.GPX('gpx/A-KHIMATSOO TR-3 Proto ATV-Open.gpx', {async: true, polyline_options: {
+    color: 'red',
+    opacity: 0.75,
+    weight: 3,
+    lineCap: 'round'
+  }});
+    var a_s = new L.GPX('gpx/A-KHIMATSOO ATV-Special.gpx', {async: true, polyline_options: {
+    color: 'magenta',
+    opacity: 0.75,
+    weight: 3,
+    lineCap: 'round'
+  }});
 
-    var circle = L.circle([60.1679, 31.8961], 30, {
-        color: 'red',
-        fillColor: 'red',
-        fillOpacity: 0.5
-    }).addTo(map);
+    var overlayMaps = {
+        "Camps": camps,
+        "ATV Adventure": L.layerGroup([a_2]),
+        "ATV Open": L.layerGroup([a_3]),
+        "ATV Special": L.layerGroup([a_s]),
+        "Euro": L.layerGroup([a_1]),
+        "TR-1": L.layerGroup([a_1]),
+        "TR-2": L.layerGroup([a_2]),
+        "TR-3": L.layerGroup([a_3]),
+        "Proto": L.layerGroup([a_3]),
+    };
 
-    var latlngs = [
-        [60.1699, 31.8981],
-        [60.1679, 31.8961]
-    ];
-    var polyline = L.polyline(latlngs, {color: 'red', opacity: 0.5}).addTo(map);
-    L.control.scale().addTo(map);
+    L.control.layers(baseMaps, overlayMaps, {collapsed: false}).addTo(map);
+    L.control.scale({imperial: false}).addTo(map);
 </script>
 </body>
 </html>
