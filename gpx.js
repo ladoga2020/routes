@@ -422,14 +422,16 @@ L.GPX = L.FeatureGroup.extend({
         }
 
         var marker = new L.circle(ll, {
+          opacity: options.polyline_options.opacity,
           color: options.polyline_options.color,
+          weight: options.polyline_options.weight + 2,
           radius: proximity,
           clickable: options.marker_options.clickable,
           title: name,
           icon: symIcon,
           type: 'waypoint'
         });
-        marker.bindPopup("<b>" + name + "</b>" + (desc.length > 0 ? '<br>' + desc : '')).openPopup();
+        marker.bindPopup("<b>" + name + "</b>" + "<br>" + ll.lat + "<br>" + ll.lng + "<br>" + (desc.length > 0 ? '<br>' + desc : '')).openPopup();
         this.fire('addpoint', { point: marker, point_type: 'waypoint', element: el[i] });
         layers.push(marker);
       }
