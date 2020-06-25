@@ -383,7 +383,13 @@ L.GPX = L.FeatureGroup.extend({
         if (typeEl.length > 0) {
           typeKey = typeEl[0].textContent;
         }
-		
+
+        var typeEl = el[i].getElementsByTagName('gpxx:Proximity');
+        var proximity = '';
+        if (typeEl.length > 0) {
+          proximity = typeEl[0].textContent;
+        }
+
         /*
          * Add waypoint marker based on the waypoint symbol key.
          *
@@ -416,7 +422,8 @@ L.GPX = L.FeatureGroup.extend({
         }
 
         var marker = new L.circle(ll, {
-          radius: 30,
+          color: options.polyline_options.color,
+          radius: proximity,
           clickable: options.marker_options.clickable,
           title: name,
           icon: symIcon,
