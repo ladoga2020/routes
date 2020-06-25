@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ xmlns="http://www.topografix.com/GPX/1/1"
+ creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
+ version="1.1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+ http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd
+ http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+<wpt lat="59.857513" lon="31.401606">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B-ST-F</name>
+ <sym>Flag, Green</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>90</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>90</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.858105" lon="31.401434">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B1</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.857320" lon="31.403979">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B2</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.857905" lon="31.407381">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B3</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.859197" lon="31.409143">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B4</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.861234" lon="31.405766">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B5</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.860624" lon="31.406977">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B6</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.860542" lon="31.407981">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B7</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.860192" lon="31.407726">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B8</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.859128" lon="31.410570">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B9</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.863393" lon="31.417219">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B10</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.862432" lon="31.418775">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B11</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.861404" lon="31.418264">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B12</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.861149" lon="31.416203">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B13</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.860030" lon="31.414517">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B14</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.858716" lon="31.412756">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B15</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.858613" lon="31.410669">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B16</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.858025" lon="31.410979">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B17</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.857571" lon="31.408821">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B18</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.857106" lon="31.406247">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B19</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.855987" lon="31.405743">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B20</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.855790" lon="31.404216">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B21</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.856178" lon="31.404022">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B22</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.856466" lon="31.403552">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B23</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.856667" lon="31.402650">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B24</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.857193" lon="31.402298">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B25</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.857513" lon="31.401606">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B-ST-F</name>
+ <sym>Flag, Green</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>90</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>90</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<rte>
+ <name>B-PUTILOVO Moto-Adventure</name>
+ <number>0</number>
+ <rtept lat="59.857513" lon="31.401606">
+  <name>B-ST-F</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.858105" lon="31.401434">
+  <name>B1</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.857320" lon="31.403979">
+  <name>B2</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.857905" lon="31.407381">
+  <name>B3</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.859197" lon="31.409143">
+  <name>B4</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.861234" lon="31.405766">
+  <name>B5</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.860624" lon="31.406977">
+  <name>B6</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.860542" lon="31.407981">
+  <name>B7</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.860192" lon="31.407726">
+  <name>B8</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.859128" lon="31.410570">
+  <name>B9</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.863393" lon="31.417219">
+  <name>B10</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.862432" lon="31.418775">
+  <name>B11</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.861404" lon="31.418264">
+  <name>B12</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.861149" lon="31.416203">
+  <name>B13</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.860030" lon="31.414517">
+  <name>B14</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.858716" lon="31.412756">
+  <name>B15</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.858613" lon="31.410669">
+  <name>B16</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.858025" lon="31.410979">
+  <name>B17</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.857571" lon="31.408821">
+  <name>B18</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.857106" lon="31.406247">
+  <name>B19</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.855987" lon="31.405743">
+  <name>B20</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.855790" lon="31.404216">
+  <name>B21</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.856178" lon="31.404022">
+  <name>B22</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.856466" lon="31.403552">
+  <name>B23</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.856667" lon="31.402650">
+  <name>B24</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.857193" lon="31.402298">
+  <name>B25</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="59.857513" lon="31.401606">
+  <name>B-ST-F</name>
+  <sym>Airport</sym>
+ </rtept>
+</rte>
+</gpx>

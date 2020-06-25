@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ xmlns="http://www.topografix.com/GPX/1/1"
+ creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
+ version="1.1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+ http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd
+ http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+<wpt lat="60.485191" lon="34.251573">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C-ST-FIN</name>
+ <sym>Flag, Green</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>90</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>90</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.496741" lon="34.242100">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C1</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.506351" lon="34.226862">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C2</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.508108" lon="34.225037">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C3</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.510039" lon="34.211955">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C4</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.514025" lon="34.203801">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C5</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.518200" lon="34.197129">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C6</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.520219" lon="34.202441">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C7</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.534985" lon="34.202856">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C8</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.551190" lon="34.194710">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C9</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.585147" lon="34.211449">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C10</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.583602" lon="34.254665">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C11</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.598950" lon="34.266184">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C12</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.609403" lon="34.289931">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C13</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.622896" lon="34.302618">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C14</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.636074" lon="34.301868">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C15</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.648448" lon="34.305054">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C16</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.664553" lon="34.314409">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C17</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.664787" lon="34.309586">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C18</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.670430" lon="34.294408">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C19</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.672973" lon="34.294924">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C20</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.672488" lon="34.291297">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C21</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.678647" lon="34.261506">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C22</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.674302" lon="34.214436">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C23</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.676224" lon="34.208164">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C24</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.674597" lon="34.205173">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C25</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.676085" lon="34.190064">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C26</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.664726" lon="34.164059">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C27</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.664493" lon="34.143169">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C28-60KMH</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.659178" lon="34.120802">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C29-60KMH</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.636514" lon="34.112084">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C30-60KMH</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.606454" lon="34.157300">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C31</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.585147" lon="34.211449">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C10</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.551190" lon="34.194710">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C9</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.534985" lon="34.202856">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C8</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.520219" lon="34.202441">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C7</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.518200" lon="34.197129">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C6</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.514025" lon="34.203801">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C5</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.510039" lon="34.211955">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C4</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.508108" lon="34.225037">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C3</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.506351" lon="34.226862">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C2</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.496741" lon="34.242100">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C1</name>
+ <sym>Park</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>50</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>50</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.485191" lon="34.251573">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>C-ST-FIN</name>
+ <sym>Flag, Green</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>90</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>90</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<rte>
+ <name>C-CHURCH Moto-Sport Moto-Adventure</name>
+ <number>0</number>
+ <rtept lat="60.485191" lon="34.251573">
+  <name>C-ST-FIN</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.496741" lon="34.242100">
+  <name>C1</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.506351" lon="34.226862">
+  <name>C2</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.508108" lon="34.225037">
+  <name>C3</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.510039" lon="34.211955">
+  <name>C4</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.514025" lon="34.203801">
+  <name>C5</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.518200" lon="34.197129">
+  <name>C6</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.520219" lon="34.202441">
+  <name>C7</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.534985" lon="34.202856">
+  <name>C8</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.551190" lon="34.194710">
+  <name>C9</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.585147" lon="34.211449">
+  <name>C10</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.583602" lon="34.254665">
+  <name>C11</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.598950" lon="34.266184">
+  <name>C12</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.609403" lon="34.289931">
+  <name>C13</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.622896" lon="34.302618">
+  <name>C14</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.636074" lon="34.301868">
+  <name>C15</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.648448" lon="34.305054">
+  <name>C16</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.664553" lon="34.314409">
+  <name>C17</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.664787" lon="34.309586">
+  <name>C18</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.670430" lon="34.294408">
+  <name>C19</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.672973" lon="34.294924">
+  <name>C20</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.672488" lon="34.291297">
+  <name>C21</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.678647" lon="34.261506">
+  <name>C22</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.674302" lon="34.214436">
+  <name>C23</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.676224" lon="34.208164">
+  <name>C24</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.674597" lon="34.205173">
+  <name>C25</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.676085" lon="34.190064">
+  <name>C26</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.664726" lon="34.164059">
+  <name>C27</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.664493" lon="34.143169">
+  <name>C28-60KMH</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.659178" lon="34.120802">
+  <name>C29-60KMH</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.636514" lon="34.112084">
+  <name>C30-60KMH</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.606454" lon="34.157300">
+  <name>C31</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.585147" lon="34.211449">
+  <name>C10</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.551190" lon="34.194710">
+  <name>C9</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.534985" lon="34.202856">
+  <name>C8</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.520219" lon="34.202441">
+  <name>C7</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.518200" lon="34.197129">
+  <name>C6</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.514025" lon="34.203801">
+  <name>C5</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.510039" lon="34.211955">
+  <name>C4</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.508108" lon="34.225037">
+  <name>C3</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.506351" lon="34.226862">
+  <name>C2</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.496741" lon="34.242100">
+  <name>C1</name>
+  <sym>Airport</sym>
+ </rtept>
+ <rtept lat="60.485191" lon="34.251573">
+  <name>C-ST-FIN</name>
+  <sym>Airport</sym>
+ </rtept>
+</rte>
+</gpx>

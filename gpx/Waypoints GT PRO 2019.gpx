@@ -1,0 +1,2172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ xmlns="http://www.topografix.com/GPX/1/1"
+ creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
+ version="1.1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+ http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd
+ http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+<wpt lat="59.828350" lon="31.227347">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B1</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.404461" lon="33.343229">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B10</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.600043" lon="30.436136">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B100</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.599862" lon="30.443019">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B101</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.652441" lon="30.503382">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B102</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.651754" lon="30.508511">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B103</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.651429" lon="30.511944">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B104</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.702143" lon="30.498154">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B105</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.811071" lon="30.525489">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B106</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.413582" lon="33.397839">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B11</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.437590" lon="33.476594">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B12</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.308874" lon="33.396089">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B13</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.347875" lon="33.464436">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B14</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.360169" lon="33.468429">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B15</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.357310" lon="33.492491">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B16</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.364121" lon="33.528689">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B17</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.402059" lon="33.583506">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B18</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.486433" lon="34.252558">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B19</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.826670" lon="31.231081">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B2</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.495153" lon="34.244149">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B20</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.500710" lon="34.234987">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B21</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.506696" lon="34.226285">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B22</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.508755" lon="34.224357">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B23</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.510434" lon="34.209798">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B24</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.512385" lon="34.207299">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B25</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.514210" lon="34.202847">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B26</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.516044" lon="34.196868">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B27</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.537868" lon="34.214505">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B28</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.824835" lon="31.281252">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B3</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.451305" lon="33.835766">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B30</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.451231" lon="33.859692">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B31</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.458494" lon="33.904743">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B32</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.472328" lon="33.932907">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B33</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.501092" lon="33.971612">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B34</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.516654" lon="33.992285">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B35</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.542411" lon="34.030456">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B36</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.561279" lon="34.045185">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B37</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.571937" lon="34.051546">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B38</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.288779" lon="33.256583">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B4</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.678608" lon="34.611298">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B40</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.663359" lon="34.654547">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B41</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.678662" lon="34.674976">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B42</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.657704" lon="34.977906">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B43</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.779818" lon="34.996620">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B44</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.783369" lon="34.995654">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B45</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.786168" lon="34.993272">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B46</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.787856" lon="34.991427">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B47</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.791500" lon="34.987865">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B48</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.308235" lon="33.381875">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B5</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.719600" lon="31.596310">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B50</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.711660" lon="31.583370">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B51</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.710510" lon="31.562570">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B52</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.708980" lon="31.535590">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B53</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.716510" lon="31.535680">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B54</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.730250" lon="31.507950">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B55</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.642265" lon="31.447136">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B56</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.641639" lon="31.471730">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B57</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.633797" lon="31.481486">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B58</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.616661" lon="31.965481">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B59</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.309931" lon="33.381963">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B6</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.615596" lon="31.956162">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B60</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.608855" lon="31.949803">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B61</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.604292" lon="31.942551">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B62</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.595937" lon="31.939741">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B63</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.590145" lon="31.930210">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B64</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.575462" lon="31.928609">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B65</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.575236" lon="31.925229">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B66</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.571708" lon="31.922752">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B67</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.569549" lon="31.915768">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B68</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.567714" lon="31.902416">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B69</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.341337" lon="33.368319">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B7</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.569041" lon="31.895923">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B70</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.569582" lon="31.895288">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B71</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.569193" lon="31.886983">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B72</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.565038" lon="31.875093">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B73</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.565685" lon="31.859500">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B74</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.564139" lon="31.840299">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B75</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.373011" lon="33.349757">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B8</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.833616" lon="30.815719">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B81</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.834695" lon="30.791441">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B82</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.837879" lon="30.778227">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B83</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.871311" lon="30.770005">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B84</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.888027" lon="30.735555">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B85</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.904778" lon="30.701242">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B86</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.389785" lon="33.310654">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B9</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.645308" lon="30.388318">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B95</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.614130" lon="30.403100">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B96</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.607442" lon="30.422716">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B97</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.603349" lon="30.429514">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B98</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.602078" lon="30.433061">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>B99</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>60</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>60</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.490245" lon="34.403467">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>CAMP-1-2</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.671483" lon="31.693617">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>CAMP-3-5</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.891417" lon="30.425833">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>CAMP-6-8</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.658772" lon="31.725675">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>DSU</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.827592" lon="30.567504">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP100</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.826773" lon="30.568740">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP101</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.821152" lon="30.583435">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP102</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.772327" lon="30.754418">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP103</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.846789" lon="31.126919">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP104</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.874171" lon="31.460792">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP105</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.019125" lon="32.330648">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP106</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.391617" lon="33.007595">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP107</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.391577" lon="33.008273">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP108</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.687365" lon="34.730043">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP200</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.696165" lon="34.617221">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP201</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.627703" lon="34.782495">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP202</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.664186" lon="34.953442">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP203</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.721688" lon="34.913773">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP204</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.777018" lon="34.999073">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP205</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.800213" lon="34.988473">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP206</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.817702" lon="34.960110">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP207</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.816164" lon="34.907515">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP208</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.462276" lon="34.214155">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP300</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.676386" lon="34.230158">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP301</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.909399" lon="34.167627">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP302</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.922410" lon="34.191528">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP303</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.972224" lon="34.047487">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP303-1</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.076691" lon="34.085457">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP303-2</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.088850" lon="34.426427">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP304</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.177269" lon="34.474457">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP305</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.203799" lon="34.448025">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP306</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.205638" lon="34.428645">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP307</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.272953" lon="34.242131">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP308</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.314068" lon="34.017928">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP309</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.350760" lon="33.818503">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP310</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.354287" lon="33.804670">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP311</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.507652" lon="33.565457">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP312</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.518448" lon="33.298205">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP313</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.547853" lon="33.300260">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP314</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.561614" lon="33.313574">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP315</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.590022" lon="33.322585">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP316</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.700917" lon="31.136538">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP400</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.670882" lon="31.157967">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP401</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.641833" lon="31.148277">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP402</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.722806" lon="31.430462">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP500</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.754007" lon="31.411009">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP501</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.675974" lon="31.452151">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP502</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.623338" lon="31.486827">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP503</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.573597" lon="31.495634">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP504</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.556614" lon="31.639553">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP505</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.562524" lon="31.667108">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP506</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.571840" lon="31.682388">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP507</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.576668" lon="31.688868">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP508</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.611702" lon="31.728978">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP509</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.610038" lon="31.695031">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP510</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.635317" lon="31.989100">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP511</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.616345" lon="31.971556">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP512</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.584608" lon="31.932406">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP513</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.762861" lon="31.003054">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP600</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.803236" lon="30.910758">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP601</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.915234" lon="30.626035">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP602</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.944575" lon="30.580500">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP603</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.800538" lon="30.615352">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP604</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.747564" lon="30.668897">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP605</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.521050" lon="30.194893">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP606</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.433158" lon="30.142646">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP607</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.338683" lon="29.859141">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP608</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.923012" lon="29.759802">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP700</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.918798" lon="29.767073">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP701</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.876955" lon="29.824838">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP702</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.835472" lon="29.814337">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP703</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.721863" lon="30.068776">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP704</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.653333" lon="30.347799">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP705</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.582774" lon="30.486613">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP706</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.609958" lon="30.466525">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP707</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.613247" lon="30.469898">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP708</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.621688" lon="30.461287">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP709</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.613903" lon="30.476395">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP710</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.625311" lon="30.492786">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP711</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.627854" lon="30.502906">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP712</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.630112" lon="30.496024">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP713</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.662387" lon="30.527883">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP715</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.670097" lon="30.488866">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP716</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.739744" lon="30.458994">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP717</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.772101" lon="30.470199">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP718</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.784091" lon="30.489248">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP719</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.783104" lon="30.506721">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP720</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.816821" lon="30.514770">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP721</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.833706" lon="30.468868">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>GP722</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>300</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>300</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.629670" lon="30.494011">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>INFO 1</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.665771" lon="30.499876">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>INFO 2</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="59.934150" lon="30.307650">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>ISAAK</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.593343" lon="31.145171">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>Q4</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>1000</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>1000</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.857330" lon="34.189361">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R14</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.847565" lon="34.186964">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R15</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.845201" lon="34.173405">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R16</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.821612" lon="34.177544">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R17</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.791962" lon="34.156291">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R18</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.779952" lon="34.161209">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R19</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.760752" lon="34.179115">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R20</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.753894" lon="34.195715">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R21</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.743765" lon="34.168487">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R22</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.735701" lon="34.192173">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R23</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.717739" lon="34.227989">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R24</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.712191" lon="34.228379">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R25</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.697120" lon="34.227995">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R26</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.635583" lon="34.111497">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R27</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.330717" lon="33.973388">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R28</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.341279" lon="33.906928">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R29</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.464938" lon="33.329454">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R30</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.669413" lon="31.158504">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R31</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.664249" lon="31.155635">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R32</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.757600" lon="31.492094">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R33</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.753701" lon="31.472038">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R34</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.550360" lon="31.551888">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R35</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.649247" lon="31.684935">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R36</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.795034" lon="30.921556">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R37</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.815564" lon="30.905938">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>R38</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.716379" lon="34.926806">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W1</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.661307" lon="31.774877">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W10</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.661064" lon="31.775436">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W11</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.660087" lon="31.775470">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W12</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.659354" lon="31.776084">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W13</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.653851" lon="31.784028">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W14</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.650828" lon="31.776740">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W15</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.654533" lon="31.776417">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W16</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.655583" lon="31.775683">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W17</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.658100" lon="31.774233">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W18</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.658800" lon="31.773217">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W19</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.660783" lon="31.770283">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W20</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.563763" lon="31.692843">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W5</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.661215" lon="31.769336">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W6</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.660938" lon="31.771482">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W7</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.809790" lon="30.897000">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W76</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.813533" lon="30.895557">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W77</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.813940" lon="30.898788">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W78</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.814053" lon="30.899488">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W79</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.661207" lon="31.772531">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W8</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.814285" lon="30.900212">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W80</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.101162" lon="29.840066">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W87</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.102413" lon="29.841142">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W88</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.102977" lon="29.844835">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W89</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.661374" lon="31.773634">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W9</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.103495" lon="29.846922">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W90</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.102908" lon="29.846637">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W91</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.102042" lon="29.844965">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W92</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.100880" lon="29.841800">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W93</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="61.100790" lon="29.840635">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>W94</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>30</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>30</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.949001" lon="30.342304">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>SLOW1</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+<wpt lat="60.945107" lon="30.355482">
+ <time>2000-01-01T00:00:00.000Z</time>
+ <name>SLOW2</name>
+ <sym>1</sym>
+ <extensions>
+  <gpxx:WaypointExtension><gpxx:Proximity>0</gpxx:Proximity></gpxx:WaypointExtension>
+  <wptx1:WaypointExtension><wptx1:Proximity>0</wptx1:Proximity></wptx1:WaypointExtension>
+ </extensions>
+</wpt>
+</gpx>

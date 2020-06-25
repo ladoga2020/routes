@@ -35,41 +35,51 @@
         camp_6_8 = L.marker([60.890102, 30.426113]).bindPopup('Camp 6-8 Моторное');
     var camps = L.layerGroup([camp_1_2, camp_3_5, camp_6_8]).addTo(map);
 
-    var a_1 = new L.GPX('gpx/A-KHIMATSOO Euro TR-1 Adventure.gpx', {async: true, polyline_options: {
-    color: 'green',
-    opacity: 0.75,
-    weight: 3,
-    lineCap: 'round'
-  }});
-    var a_2 = new L.GPX('gpx/A-KHIMATSOO TR-2 Adventure-Open ATV-Adventure.gpx', {async: true, polyline_options: {
-    color: 'yellow',
-    opacity: 0.75,
-    weight: 3,
-    lineCap: 'round'
-  }});
-    var a_3 = new L.GPX('gpx/A-KHIMATSOO TR-3 Proto ATV-Open.gpx', {async: true, polyline_options: {
-    color: 'red',
-    opacity: 0.75,
-    weight: 3,
-    lineCap: 'round'
-  }});
-    var a_s = new L.GPX('gpx/A-KHIMATSOO ATV-Special.gpx', {async: true, polyline_options: {
-    color: 'magenta',
-    opacity: 0.75,
-    weight: 3,
-    lineCap: 'round'
-  }});
+
+    var gpx_index = [
+        {name: 'a_1', source: 'gpx/A-KHIMATSOO Euro TR-1 Adventure.gpx', color: 'green'},
+        {name: 'a_2', source: 'gpx/A-KHIMATSOO TR-2 Adventure-Open ATV-Adventure.gpx', color: 'yellow'},
+        {name: 'a_3', source: 'gpx/A-KHIMATSOO TR-3 Proto ATV-Open.gpx', color: 'red'},
+        {name: 'a_s', source: 'gpx/A-KHIMATSOO ATV-Special.gpx', color: 'magenta'},
+        {name: 'b_ma', source: 'gpx/B-PUTILOVO Moto-Adventure.gpx', color: 'green'},
+        {name: 'b_ms', source: 'gpx/B-PUTILOVO Moto-Sport.gpx', color: 'red'},
+        {name: 'c_m', source: 'gpx/C-CHURCH Moto-Sport Moto-Adventure.gpx', color: 'red'},
+        {name: 'd_1', source: 'gpx/D-BEAVERS Euro TR-1 Adventure ATV-Adventure.gpx', color: 'green'},
+        {name: 'd_2', source: 'gpx/D-BEAVERS TR-2 Adventure-Open TR-3 Proto ATV-Open ATV-Special.gpx', color: 'red'},
+        {name: 'gtp', source: 'gpx/Waypoints GT PRO 2019.gpx', color: 'red'},
+        {name: 'gtl', source: 'gpx/Waypoints GT Lite 2019.gpx', color: 'green'},
+    ];
+
+    var g = {};
+    for (let i = 0; i < gpx_index.length; i++) {
+        gpx_ = gpx_index[i];
+        console.log(gpx_)
+        g[gpx_.name] = new L.GPX(gpx_.source, {
+            async: true, polyline_options: {
+                color: gpx_.color,
+                opacity: 0.75,
+                weight: 3,
+                lineCap: 'round'
+            }
+        })
+    }
 
     var overlayMaps = {
         "Camps": camps,
-        "ATV Adventure": L.layerGroup([a_2]),
-        "ATV Open": L.layerGroup([a_3]),
-        "ATV Special": L.layerGroup([a_s]),
-        "Euro": L.layerGroup([a_1]),
-        "TR-1": L.layerGroup([a_1]),
-        "TR-2": L.layerGroup([a_2]),
-        "TR-3": L.layerGroup([a_3]),
-        "Proto": L.layerGroup([a_3]),
+        "ATV Adventure": L.layerGroup([g['a_2'], g['d_1']]),
+        "ATV Open": L.layerGroup([g['a_3'], g['d_2']]),
+        "ATV Special": L.layerGroup([g['a_s'], g['d_2']]),
+        "Euro": L.layerGroup([g['a_1'], g['d_1']]),
+        "TR-1": L.layerGroup([g['a_1'], g['d_1']]),
+        "Adventure": L.layerGroup([g['a_1'], g['d_1']]),
+        "TR-2": L.layerGroup([g['a_2'], g['d_2']]),
+        "Adventure Open": L.layerGroup([g['a_2'], g['d_2']]),
+        "TR-3": L.layerGroup([g['a_3'], g['d_2']]),
+        "Proto": L.layerGroup([g['a_3'], g['d_2']]),
+        "Moto Sport": L.layerGroup([g['b_ms'], g['c_m']]),
+        "Moto Adventure": L.layerGroup([g['b_ma'], g['c_m']]),
+        "GT Pro": L.layerGroup([g['gtp']]),
+        "GT Lite": L.layerGroup([g['gtl']]),
     };
 
     L.control.layers(baseMaps, overlayMaps).addTo(map);
